@@ -1,2 +1,2 @@
-# rootnet
+# global-admin
 Root network setup
